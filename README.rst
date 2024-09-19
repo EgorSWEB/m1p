@@ -24,7 +24,7 @@
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+Современные методы передачи стиля для слабых моделей часто сталкиваются с проблемами точности и эффективности, особенно в условиях ограниченных вычислительных ресурсов. Дистилляция знаний через диффузионные модели представляет собой многообещающий подход для улучшения производительности слабых моделей, передавая ключевые элементы знаний от более мощных моделей посредством добавления нового слагаемого в функцию потерь. В этой работе исследуются методы дистилляции знаний для диффузионных моделей, которые позволяют адаптировать стилизацию и передачу контента для более слабых моделей без необходимости значительных вычислительных затрат. В результате достигается оптимальный баланс между сохранением высококачественных визуальных характеристик и экономичностью, что открывает новые возможности для разработки эффективных моделей стилизации в реальном времени.
 
 Research publications
 ===============================
