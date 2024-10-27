@@ -15,7 +15,7 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Image Style Transfer (это только направление)
+    :Название исследуемой задачи: Image Style Transfer for Distillation of Diffusion Knowledge into a Transformer
     :Тип научной работы: M1P
     :Автор: Егор Юрьевич Сильвестров
     :Научный руководитель: к.ф.-м.н., Китов Виктор Владимирович
